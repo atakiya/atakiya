@@ -1,4 +1,3 @@
-<center>
 <h1>Welcome ∙ Willkommen ∙ Salut</h1>
 
 I'm Alexander, better known under my pseudonym ｢Avunia Takiya｣.  
@@ -8,11 +7,8 @@ Unfortunately not that good at lexical writing in comparison 🐱
 
 _For more information do visit my homepage at [avunia.takiya.eu](https://avunia.takiya.eu)_
 
-</center>
-
 ---
 
-<center>
 <h3>Stuff I regularly work with</h3>
 
 Cloudflare ∙ C# ∙ CSS ∙ Debian Linux ∙ Docker & Podman ∙ Fedora Linux ∙ NuShell ∙ PostgreSQL ∙ PowerShell ∙ Rust ∙ Svelte
@@ -25,10 +21,8 @@ DreamMaker ∙ JavaScript ∙ Perl ∙ PHP ∙ Python ∙ Shell (Bourne, POSIX) 
 
 Ansible ∙ Layer 1 Networking ∙ Tauri ∙ TypeScript ∙ Win32
 
-</center>
-
 ---
 
-<center>
+<div align="center">
 🟨⬜🟪⬛
-</center>
+</div>
